@@ -11,7 +11,7 @@ Project title:
 Sentiment Analysis with Intended Sarcasm Detection in Text
 
 Team 15
-19301230	Farhan Farooqui
 20301141	Hasnain Habib Sayed
+19301230	Farhan Farooqui
 21301021	Ahnaf Ahmad Safwat Reza
 22241051	Farhan Tanvir
